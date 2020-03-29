@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1143.759" height="937.148" viewBox="0 0 1143.759 937.148">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.372" y2="0.601" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#6f35b3"/>
+      <stop offset="1" stop-color="#982baf"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="-1.319" y2="0.712" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#683ab7"/>
+      <stop offset="1" stop-color="#9c2aaf"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_163" data-name="Group 163" transform="translate(-779.028 1)">
+    <g id="Group_161" data-name="Group 161">
+      <path id="Path_41" data-name="Path 41" d="M1154,101s-181.13,145.98,86.176,248.544c64.242,23.566,159.695,45.446,162.851,260.972,8.049,43.67,46.3,145.469,209.579,126.1,37.193-2.982,125.65,20.954,165.472,174.162,23.158,46.019,108.005,103.707,149.386,104.713,45.259,13.843,323.48,51.681,299.3-57.815V101Z" transform="translate(-315 -97)" fill="#fe616d" opacity="0.524"/>
+      <g id="Group_1" data-name="Group 1">
+        <path id="Path_2" data-name="Path 2" d="M837.234,0S704.676,151.409,917.108,232.266c85.562,30.66,190.267,63.412,185.762,263.626,1.549,57.851,82.406,131.806,174.326,127.912,63.479,1.72,156.733,33.058,167.3,104.786s122.1,244.544,471.479,161.267c.149-52.133,0-889.858,0-889.858Z" transform="translate(5 -1)" fill="#673ab7"/>
+        <path id="Path_3" data-name="Path 3" d="M865.824,0s-139.8,198.472,149.987,200.735c156.122-5.078,422.749-72.451,519.613,289.216,12.3,73.858,33.809,247.15,86.322,295.88s184.236,118.419,296.758,84.312c1.333-70.255,0-171.728,0-171.728s-155.11-138.1-159.51-420.94c-12.94-60.806-93.164-311.187-477.741-243.859C1186.8,53.331,1064.489,62.593,1052.882,0,1005.3-.663,865.824,0,865.824,0Z" stroke="#673ab7" stroke-width="1" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+    <path id="Path_4" data-name="Path 4" d="M1849.151,0s-45.387,184.34,73.114,256.069c-2.167-86.225,0-256.069,0-256.069Z" stroke="#673ab7" stroke-width="1" opacity="0.801" fill="url(#linear-gradient-2)"/>
+  </g>
+</svg>
